@@ -46,9 +46,9 @@ h2 {
 }
 
 p {
-	font-size: 100%;
-	font-family: 'Times New Roman', serif;
-	color: rgb(111,127,122)
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
 }
 img {
 	border: 5px #ccc solid;
